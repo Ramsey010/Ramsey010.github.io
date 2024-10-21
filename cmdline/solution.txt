@@ -2,3 +2,4 @@ byte0:treasure
 byte1:echo The output is not a manual page - look elsewhere
 byte2:Aside
 byte3:all
+byte4:you_just_found_the_triwizard_cup
