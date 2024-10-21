@@ -1,4 +1,4 @@
 byte0:treasure
 byte1:echo The output is not a manual page - look elsewhere
 byte2:Aside
-byte3:And all the men and women merely players;
+byte3:all
