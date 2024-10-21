@@ -1,0 +1,2 @@
+byte0:treasure
+byte1:
