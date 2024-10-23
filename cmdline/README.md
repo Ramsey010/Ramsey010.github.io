@@ -16,4 +16,9 @@
 
 8. Εκανα ls και vim carriage_return.txt 
 
-9.
+9.Εκανα ls και cat /home/byte9/-
+
+10.sort names.txt | head -n 10 και πηρα το τελευταιο ονομα
+
+11.sort births.txt | uniq -c | sort -nr | head -n 1  Αρχικα κανω sort για το uniq μετα το δευτερο sort βαζει το output του uniq απο μεγαλυτερο στο μικροτερο και με head κραταω το μεγαλυτερο
+(Αμα βγει αγορι καλυτερα να το ονομασει eugine και οχι kelley αμα δεν θελει να το κοροιδευουν)
