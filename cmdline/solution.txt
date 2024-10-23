@@ -1,7 +1,7 @@
 byte0:treasure
 byte1:echo The output is not a manual page - look elsewhere
 byte2:Aside
-byte3:all
+byte3:programmers
 byte4:you_just_found_the_triwizard_cup
 byte5:sdi2300255_1729539393_-1645314145_37_6_162_231_53830_22
 byte6:unzipping_was_never_so_easy
