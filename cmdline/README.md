@@ -9,3 +9,9 @@
 4.Εκανα find . -name cup.txt και cat το path που βρηκα
 
 5.Εκανα cd /tmp και mkdir μπηκα στο dir εκανα copy me cp το byte.5 το εκανα compile kai ετρεξα με το sdi μου
+
+6.Πηγα στο /tmp εκανα unzip /home/byte6/byte6.zip και εκανα cat το txt
+
+7. Παρομοιως στο tmp  tar -x -f/home/byte7/byte7.tar.gz και cat
+
+8. Εκανα ls και vim carriage_return.txt 
