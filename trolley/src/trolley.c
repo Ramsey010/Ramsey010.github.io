@@ -3,7 +3,6 @@
 
 
 int main(){
-<<<<<<< HEAD
 	
 	int l_cost;
 	int r_cost;
