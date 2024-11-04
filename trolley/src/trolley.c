@@ -4,8 +4,8 @@
 
 int main(){
 
-	int l_cost;
-	int r_cost;
+	long long int l_cost;
+	long long int r_cost;
 	
 	
 	
