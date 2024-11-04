@@ -3,11 +3,7 @@
 
 
 int main(){
-<<<<<<< HEAD
-	
-=======
- 
->>>>>>> e538e20 (esesees)
+
 	int l_cost;
 	int r_cost;
 	
@@ -45,9 +41,6 @@ int main(){
 		printf("Go right\n");
 	}
        return 0;
-<<<<<<< HEAD
 
-=======
-//i check with cost is lower 
->>>>>>> e538e20 (esesees)
+//i check which cost is lower 
 }
