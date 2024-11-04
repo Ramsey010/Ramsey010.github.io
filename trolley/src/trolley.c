@@ -10,7 +10,7 @@ int main(){
 	
 	
 	printf("Please enter the cost of going left\n");
-	int result_l = scanf(" %d", &l_cost); 
+	int result_l = scanf(" %lld", &l_cost); 
 	//I store the value of scanf in a variable
 	if(result_l==EOF){
 		 printf("End of file. Terminating\n");	
@@ -26,7 +26,7 @@ int main(){
 	
 	printf("Please enter the cost of going right\n");
 
-        int result_r= scanf(" %d",&r_cost);
+        int result_r= scanf(" %lld",&r_cost);
         //didnt really have to store scan in a variable
        	if(result_r != 1){
 	        printf("No valid right cost provided. Terminating\n");
